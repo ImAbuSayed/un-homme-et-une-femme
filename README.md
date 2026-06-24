@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-homme-et-une-femme/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Un Homme Et Une Femme](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-homme-et-une-femme/) |
+| **Get License** | [Get a Licensing Quote for Un Homme Et Une Femme](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-homme-et-une-femme/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton parfum dans l'air, je perds la tête ce soir
+> Sous les néons de Paname, on va s'enfuir dans le noir
+> Come closer to me, laisse-moi guider tes pas
+> Un homme et une femme, baby c'est toi et moi
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
