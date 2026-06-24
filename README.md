@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-homme-et-une-femme/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Un Homme Et Une Femme](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-homme-et-une-femme/) |
+| **Get License** | [Obtain a Music License for Un Homme Et Une Femme](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-homme-et-une-femme/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `776fb88d45bb43c2e9dae4f0391edcec9f351c05abc6457b4f960fb73e1a5c13` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
